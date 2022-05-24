@@ -1,6 +1,6 @@
 # vuesque
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite. All the boilerplate HTML and CSS are stripped out, Tailwind CSS has been added and configured. Includes Pinia and Router.
 
 ## Recommended IDE Setup
 
