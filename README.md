@@ -14,8 +14,6 @@ core tooling:
 
 additional features:
 
-- reactivity transform is turned on, a piece of syntax sugar meaning you don't have to type '.value' over and over again in your script tags. (That option was turned on in the vite.config.js file)
-
 - It also automatically imports the components that you use, so you don't have to import them by hand. More syntactic sugar.
 
 - I've included vueUse, a powerful set of composable utility components. Don't worry, your final build will only include the vueUse components that you actually use. Check them out at www.vueuse.org.
