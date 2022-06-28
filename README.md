@@ -1,6 +1,6 @@
 # vuesque
 
-This template should help get you started developing with Vue 3 in Vite. It's based on the 'npm i vue@latest' template. All the boilerplate HTML and CSS are stripped out, Tailwind CSS has been added and configured. Includes Pinia and Router.
+This slim, futuristic Vue 3 template will provide you with some core tools like the Vue router, the Vue store (Pinia, the latest recommended version), and Tailwind (atomic CSS framework). It also comes with reactivity transform turned on, so you don't have to type '.value' over and over again. It also has automatic component importing, so you don't have to import your components by hand. should help get you started developing with Vue 3 in Vite. It's based on the 'npm i vue@latest' template. All the boilerplate HTML and CSS are stripped out, Tailwind CSS has been added and configured. Includes Pinia and Router.
 
 ## Recommended IDE Setup
 
