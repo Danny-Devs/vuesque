@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="py-2 sm:py-6">
+  <div class="flex py-2 sm:py-6">
     <div>logo/logotype here</div>
 
     <ul>
